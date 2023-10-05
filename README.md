@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My Solution](https://github.com/dashaunn/FEM-Results-Summary-Component/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL](https://dashaunn.github.io/FEM-Results-Summary-Component/)
 
 ## My process
 
